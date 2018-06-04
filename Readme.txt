@@ -1,18 +1,20 @@
-Perfil: 
+Eduardo Thrash(Sobre Mi)
 
-Educación
+Perfil
+	Izquierda: Educación
+	Derecha Arriba: Porcentajes conocimientos
+	Derecha Abajo: Experiencia laboral
 
-
-
-Experiencia
-
-
-Contacto
-
-
-proyectos
-
+Proyectos
 
 Blog
 
-QA
+Contacto
+
+Iconos
+	LinkedIN
+	QA
+	Github
+	Instagram
+	Facebook
+
