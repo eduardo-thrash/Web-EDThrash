@@ -68,6 +68,9 @@ body{
 .img-rabbit{
 	width: 100%;
 }
+.img-thrashMedium{
+	width: 100%;
+}
 .btn-rabbit{
 	background-color: #fff;
 	color: #111;
@@ -217,7 +220,15 @@ footer{
 	margin-top: 15px;
 	margin-bottom: 20px;
 	padding-right: 40px;
+}
 
+	.subtitle-skills{
+		font.align: justify;
+		font-weight: 600;
+		font-size: 15px;
+		color: #3b3b3b;
+		font-family: "Crimson";
+		padding-right: 40px;
 	}
 .page-title:after{
 	width: 75%;
